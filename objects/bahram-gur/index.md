@@ -16,63 +16,45 @@ tags:
 ---
 
 # Bahram Gur Slays Dragon
+Bahram Gur Slays a Dragon (verso), from the Shahnama (Book of Kings) attributed to Firdausi and produced in the Great Mongol Shahnama tradition (c. 1330–35), depicts Bahram Gur driving his sword into the chest of a dragon in a highly charged moment of combat.¹ Bahram Gur, a celebrated figure from Iran’s pre-Islamic past and a ruler of the Sasanian dynasty (420–438 CE), was renowned as both a hunter and legendary hero.² The work is executed in opaque watercolor, ink, and gold on paper, and measures 45.8 × 34.4 cm (18 1/16 × 13 9/16 in.).³ The composition reflects strong Mongol-period Iranian engagement with Chinese visual traditions, especially in its stylized rock formations, tree trunk, and dynamic rendering of the dragon.⁴ The scene is unified through the energetic movement of both landscape and creature, producing an intense and tightly concentrated visual narrative.⁵
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+The scene depicts the Sasanian monarch Bahram Gur (420–38) confronting an enormous dragon that stretches across the composition from the lower left to the upper right.⁶ The dragon lies on its back with its head and breast pierced by arrows, while its serpentine tail coils around a tree, emphasizing its size and chaotic power.⁷ At the lower center, Bahram Gur stands with his head obscured by a helmet, preparing to disembowel the creature with a sword, while his horse stands at the lower right and fantastic hills with sprouting trees fill the upper left.⁸ The composition is clarified by the accompanying epic passage, which describes the moment of encounter and battle in vivid poetic terms:
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+“When Sol illumed its crown, when earth grew golden,
+ And hill and stream became as ivory,
+ The valiant Shah went to the chase and saw
+ A dragon like a lion. From its head
+ Hair hung down to the ground, and it had breasts
+ Like those of women. Then Bahrim Gur strung
+ His bow and shot forthwith a poplar arrow
+ Against the dragon's chest. He shot another
+ Straight at its head, and gore and venom flowed
+ Adown its front. The king dismounted, drew
+ His sword, and carved up all the dragon's breast.”⁹
 
-
-## Your First Section Heading
-{% include images/figure.html
-class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/st-george.jpg"
-%}
-
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+In Persian miniature painting traditions, dragon-slaying scenes such as Bahram Gur Slays a Dragon are often constructed as highly dynamic compositions in which hunter and dragon are set in direct opposition.¹⁰ Although their relative sizes may vary depending on period and artistic school, the figures are portrayed as psychologically and emotionally balanced adversaries, generating a strong sense of tension across the surface of the page.¹¹ In some cases, the artist interweaves the two central elements so closely that the composition resists simple symmetry, instead forming a more “diametric” structure in which opposing forces activate the pictorial space in an asymmetrical but cohesive design.¹²
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+## Footnotes
+1.	Cleveland Museum of Art, “Bahram Gur Arrives at the House of a Merchant, text page (recto); Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), known as the Great Mongol Shahnama,” accessed April 30, 2026, https://www.clevelandart.org/art/1943.658. 
+2.	Ibid. 
+3.	Ibid. 
+4.	Ibid. 
+5.	Ibid. 
+6.	Howard Hollis, “Bahrām Gūr Slays a Dragon,” The Bulletin of the Cleveland Museum of Art 32, no. 6 (1945): 85–89. http://www.jstor.org.libproxy.unm.edu/stable/25141210. 
+7.	Ibid. 
+8.	Ibid. 
+9.	Ibid. 
+10.	Daphne Lange Rosenzweig, “Stalking the Persian Dragon: Chinese Prototypes for the Miniature Representations,” Kunst Des Orients 12, no. 1/2 (1978): 150–76. http://www.jstor.org.libproxy.unm.edu/stable/20752482. 
+11.	Ibid. 
+12.	Ibid. 
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+Cleveland Museum of Art. “Bahram Gur Arrives at the House of a Merchant, text page (recto); Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), known as the Great Mongol Shahnama.” Accessed April 30, 2026. https://www.clevelandart.org/art/1943.658.
+
+Hollis, Howard. “Bahrām Gūr Slays a Dragon.” The Bulletin of the Cleveland Museum of Art 32, no. 6 (1945): 85–89. http://www.jstor.org.libproxy.unm.edu/stable/25141210.
+
+Rosenzweig, Daphne Lange. “Stalking the Persian Dragon: Chinese Prototypes for the Miniature Representations.” Kunst Des Orients 12, no. 1/2 (1978): 150–76. http://www.jstor.org.libproxy.unm.edu/stable/20752482.
