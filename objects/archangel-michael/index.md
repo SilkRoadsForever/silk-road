@@ -2,8 +2,8 @@
 author: Seth Castillo
 title: "The Archangel Michael"
 layout: base
-header-image: images/michael.jpg
-thumbnail: images/michael.jpg
+header-image: images/the-archangel-michael.jpg
+thumbnail: images/the-archangel-michael.jpg
 summary: The Archangel Michael is an oil and tooled gold on panel painting created between 1500 and 1503 by Juan Ximénez, a Spanish artist active in Aragon who is first documented in 1500 and died in 1505.
 geo: [42.278534, -0.278893]
 placename: Aragon Region in Iberia
