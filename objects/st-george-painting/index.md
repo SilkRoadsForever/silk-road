@@ -16,63 +16,44 @@ tags:
 ---
 
 # St. George Slays Dragon
+The icon depicts St. George in full military attire, emphasizing both his role as a soldier and a holy warrior.¹ He wears a short, long-sleeved tunic beneath a richly ornamented cuirass decorated with gold, featuring a single row of leather “wings” at the upper arms and a double row around the pelvis.² His legs are covered in tightly fitted hose or pantaloons, and his boots resemble bandages wrapped securely around them.³ Flowing behind him as he rides forward is a red chlamys, knotted at the chest, adding a sense of movement and drama.⁴ Armed with a round shield on his left arm, St. George thrusts a spear with his right hand into the open mouth of a fearsome three-headed dragon with red wings.⁵ The dragon coils its tail around the hind legs of the horse, which rears back in alarm, its own tail knotted.⁶ Above, in the upper right corner, the hand of God appears in two sections, offering a gesture of blessing toward the saint.⁷ The setting is defined by a stark landscape composed of two opposing triangular rock formations, framing the intense and symbolic confrontation.⁸
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+This icon, now housed in the Benaki Museum in Athens, was acquired through the generosity of the A. Leventis Foundation and measures 40.8 by 37.5 cm.⁹ An inscription in Greek reading “by the hand of Angelos” identifies the artist as Angelos Akotantos, a prominent Cretan painter now securely dated to the first half of the fifteenth century.¹⁰ The absence of a written date is offset by stylistic and iconographic evidence, which aligns the work with fifteenth-century Cretan painting rather than later traditions.¹¹ Angelos’s reputation is underscored by the number of surviving signed works and attributed icons, suggesting he operated a large and influential workshop.¹² His works are found across the Byzantine world, including Sinai, Patmos, and various Greek islands, demonstrating both his fame and the wide circulation of his art.¹³ The icon thus not only represents a vivid religious narrative but also provides valuable insight into the artistic production, workshop practices, and broader cultural networks of Cretan painting during this formative period.¹⁴
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+The figure of Saint George and the Dragon is presented as a widespread and deeply rooted cultural and religious topos in both the Eastern and Western worlds.¹⁵ As Pasquale Maria Morabito notes, the image of the saint on horseback with shield and spear confronting the winged monster is an ancient and sacred motif that appears across Christian traditions.¹⁶ This symbolism is reinforced by biblical references such as Psalm 90, which speaks of triumph over serpents, lions, and dragons, framing the saint’s victory as a divine act.¹⁷ Morabito also emphasizes the broad geographic spread of the cult, which extends from Palestine to England and from the Balkans—where tradition holds George was born in Cappadocia—to regions such as Catalonia, where he is venerated as San Jordi.¹⁸ In this way, Saint George becomes a defining figure of one of the most important martyrological cults in the Mediterranean world.¹⁹
 
+A widely told version of the legend says that St. George, a Christian soldier, came upon a city terrorized by a dragon that demanded human sacrifices.²⁰ When the king’s daughter was chosen as the next victim, George arrived, confronted the dragon, and made the sign of the cross before attacking it.²¹ He then wounded the dragon and ultimately killed it, saving the princess and the city.²² The people were so amazed that many converted to Christianity after witnessing the miracle.²³
 
-## Your First Section Heading
-{% include images/figure.html
-class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/st-george.jpg"
-%}
+## Footnotes
+1.	Maria Vassilaki, “A Cretan Icon of Saint George,” The Burlington Magazine 131, no. 1032 (1989): 210. 
+2.	Vassilaki, 210. 
+3.	Vassilaki, 210. 
+4.	Vassilaki, 210. 
+5.	Vassilaki, 210. 
+6.	Vassilaki, 210. 
+7.	Vassilaki, 210. 
+8.	Vassilaki, 210. 
+9.	Vassilaki, 208. 
+10.	Vassilaki, 208. 
+11.	Vassilaki, 208. 
+12.	Vassilaki, 208. 
+13.	Vassilaki, 208. 
+14.	Vassilaki, 208. 
+15.	Pasquale Maria Morabito, “Saint George and the Dragon: Cult, Culture, and Foundation of the City,” Contagion: Journal of Violence, Mimesis, and Culture 18 (2011): 135. 
+16.	Morabito, 135. 
+17.	Morabito, 135. 
+18.	Morabito, 135. 
+19.	Morabito, 135. 
+20.	Encyclopaedia Britannica, “Saint George,” https://www.britannica.com/biography/Saint-George. 
+21.	Britannica, “Saint George.” 
+22.	Britannica, “Saint George.” 
+23.	Britannica, “Saint George.” 
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
-
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
-
----
 
 ## Bibliography
+Morabito, Pasquale Maria. “Saint George and the Dragon: Cult, Culture, and Foundation of the City.” Contagion: Journal of Violence, Mimesis, and Culture 18 (2011): 135–53. http://www.jstor.org.libproxy.unm.edu/stable/41925424.
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+Vassilaki, Maria. “A Cretan Icon of Saint George.” The Burlington Magazine 131, no. 1032 (1989): 208–14. http://www.jstor.org.libproxy.unm.edu/stable/883669.
+
+Encyclopaedia Britannica. “Saint George.” https://www.britannica.com/biography/Saint-George.
+
