@@ -1,21 +1,21 @@
 ---
 author: Seth Castillo
-title: "St. George Slays Dragon"
+title: "The Stegosaur Engravings at Ta Prohm"
 layout: base
-header-image: images/st-george.jpg
-thumbnail: images/st-george.jpg
-summary: The icon depicts St. George in full military attire, emphasizing both his role as a soldier and a holy warrior.
-geo: [37.97624800174081, 23.74033871164415]
-placename: Benaki Museum in Athens
+header-image: images/stegosaur.jpg
+thumbnail: images/stegosaur.jpg
+summary: The bas-relief carving located at Ta Prohm, part of the larger temple complex of Angkor Wat in Cambodia, depicts an animal that has been widely described as “stegosaur-like.”
+geo: [13.43499235642662, 103.88930409669155]
+placename: Ta Prohm Temple
 tags:
   - object
-  - st.george
+  - stegosaur
   - art
   - spear
   
 ---
 
-# St. George Slays Dragon
+# The Stegosaur Engravings at Ta Prohm
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 

@@ -1,17 +1,21 @@
 ---
-author: student name
-title: "St. Michael Slays Dragon"
+author: Seth Castillo
+title: "Bahram Gur Slays Dragon"
 layout: base
-header-image: images/st-michael.jpg
-thumbnail: images/st-michael.jpg
-summary: This image is of the Han coin, not an altarpiece from a monastery.
-geo: [47.199, 102.834]
-placename: Karakorum
+header-image: images/bahram-gur.jpg
+thumbnail: images/bahram-gur.jpg
+summary: Bahram Gur Slays a Dragon (verso), from the Shahnama (Book of Kings) attributed to Firdausi and produced in the Great Mongol Shahnama tradition (c. 1330–35), depicts Bahram Gur driving his sword into the chest of a dragon in a highly charged moment of combat.
+geo: [41.50809479429789, -81.6119401161303]
+placename: The Cleveland Museum of Art
 tags:
   - object
+  - persian
+  - art
+  - dragon
+  
 ---
 
-# St. Michael Slays Dragon
+# Bahram Gur Slays Dragon
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
@@ -23,7 +27,7 @@ The text below is mostly filler to show how an essay flows, but we'll call out k
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/st-michael.jpg"
+image-path="images/st-george.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.

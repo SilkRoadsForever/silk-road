@@ -1,21 +1,21 @@
 ---
 author: Seth Castillo
-title: "St. George Slays Dragon"
+title: "The Archangel Michael"
 layout: base
-header-image: images/st-george.jpg
-thumbnail: images/st-george.jpg
-summary: The icon depicts St. George in full military attire, emphasizing both his role as a soldier and a holy warrior.
-geo: [37.97624800174081, 23.74033871164415]
-placename: Benaki Museum in Athens
+header-image: images/michael.jpg
+thumbnail: images/michael.jpg
+summary: The Archangel Michael is an oil and tooled gold on panel painting created between 1500 and 1503 by Juan Ximénez, a Spanish artist active in Aragon who is first documented in 1500 and died in 1505.
+geo: [42.278534, -0.278893]
+placename: Aragon Region in Iberia
 tags:
   - object
-  - st.george
+  - archangel 
   - art
-  - spear
+  - michael
   
 ---
 
-# St. George Slays Dragon
+# The Archangel Michael
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
