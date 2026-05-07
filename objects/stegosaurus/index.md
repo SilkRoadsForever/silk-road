@@ -2,8 +2,8 @@
 author: Seth Castillo
 title: "The Stegosaur Engravings at Ta Prohm"
 layout: base
-header-image: images/stegosaur.jpg
-thumbnail: images/stegosaur.jpg
+header-image: images/stegosaurus.jpg
+thumbnail: images/stegosaurus.jpg
 summary: The bas-relief carving located at Ta Prohm, part of the larger temple complex of Angkor Wat in Cambodia, depicts an animal that has been widely described as “stegosaur-like.”
 geo: [13.43499235642662, 103.88930409669155]
 placename: Ta Prohm Temple
