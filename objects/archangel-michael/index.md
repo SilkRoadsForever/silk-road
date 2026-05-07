@@ -16,6 +16,14 @@ tags:
 ---
 
 # The Archangel Michael
+
+{% include images/figure.html
+class="right"
+width="48%"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](the-archangel-michael.jpg)"
+image-path="images/han-coin-violet.png"
+%}
+
 The Archangel Michael is an oil and tooled gold on panel painting created between 1500 and 1503 by Juan Ximénez, a Spanish artist active in Aragon who is first documented in 1500 and died in 1505.¹ The work measures 50 1/2 × 22 11/16 inches (128.3 × 57.6 cm) and was made in Spain.² It is classified as a painting and is part of the John G. Johnson Collection, acquired in 1917 (Accession No. Inv. 183).³ The composition presents the archangel as a solemn, highly refined devotional figure, and the extensive use of tooled gold emphasizes a radiant, sacred space that removes the figure from the natural world and reinforces his divine status.
 
 Rubinstein describes a late fifteenth-century image of Saint Michael standing in a
