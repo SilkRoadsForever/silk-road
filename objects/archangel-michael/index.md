@@ -20,7 +20,7 @@ tags:
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](images/the-archangel-michael.jpg)"
+caption="Satan the Great Dragon blends well with the floor. [Source](https://www.philamuseum.org/objects/103615)"
 image-path="the-archangel-michael.jpg"
 %}
 
