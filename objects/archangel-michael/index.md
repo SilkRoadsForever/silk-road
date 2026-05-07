@@ -17,62 +17,36 @@ tags:
 
 # The Archangel Michael
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
-
-
-## Your First Section Heading
-{% include images/figure.html
-class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/st-george.jpg"
-%}
-
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+The Archangel Michael is an oil and tooled gold on panel painting created between 1500 and 1503 by Juan Ximénez, a Spanish artist active in Aragon who is first documented in 1500 and died in 1505.¹ The work measures 50 1/2 × 22 11/16 inches (128.3 × 57.6 cm) and was made in Spain.² It is classified as a painting and is part of the John G. Johnson Collection, acquired in 1917 (Accession No. Inv. 183).³ The composition presents the archangel as a solemn, highly refined devotional figure, and the extensive use of tooled gold emphasizes a radiant, sacred space that removes the figure from the natural world and reinforces his divine status.
+Rubinstein describes a late fifteenth-century image of Saint Michael standing in a highly ordered, symbolic setting defined by a golden background and a floor of square mosaics, which together remove the scene from an earthly environment and establish a sacred, timeless space.⁴ The archangel is presented as a fully armored warrior, wearing a closely fitted suit of armor over a black coat of chain mail that encloses his entire body, arms, and legs, reinforcing his role as a divine protector.⁵ His appearance is further enriched by a dark blue mantle lined in red and edged with a wide golden border, which hangs in a controlled and elegant drape from his shoulders, adding both richness and visual structure to the figure.⁶ He also wears low red shoes with large tips, a detail that helps situate the image stylistically within the late fifteenth century while contributing to the carefully described, courtly appearance of the saint.⁷ His wings rise behind his shoulders, and his youthful, almost delicate face—framed by soft, curly brown hair—contrasts with his role as a warrior, while his half-closed eyes are directed downward toward the defeated monster.⁸ The creature is shown as a horned, half-animal figure beneath him, which he subdues by plunging his spear into its mouth while holding a shield for protection.⁹ Despite this violent action, Rubinstein emphasizes the overwhelming sense of restraint, noting the saint’s “great simplicity and calm” and his victory over evil “without the least effort,” as he remains serene, tranquil, and entirely assured in his divine mission.¹⁰
+The Archangel Michael is a prominent figure in Christian scripture and tradition, most notably associated with spiritual warfare and divine judgment. In the Bible, Michael is described as a chief prince and protector of God’s people, appearing in moments of cosmic conflict between good and evil. In the Book of Daniel, he is portrayed as a heavenly defender who rises to protect Israel during times of tribulation, emphasizing his role as a guardian figure acting on behalf of divine authority.¹¹ In the Book of Revelation, Michael leads the heavenly armies in a climactic battle against the dragon, symbolizing Satan, and casts him out of heaven along with the rebellious angels.¹² This victory establishes Michael as a central symbol of divine justice, triumph over evil, and the ultimate protection of God’s order, themes that underpin many artistic depictions of the archangel as a victorious warrior subduing demonic forces.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+## Footnotes
+¹ Philadelphia Museum of Art, “The Archangel Michael,” object no. 103615, https://www.philamuseum.org/objects/103615.
+ ² Philadelphia Museum of Art, “The Archangel Michael.”
+ ³ Philadelphia Museum of Art, “The Archangel Michael.”
+ ⁴ Stella Rubinstein, “A French Painting of St. Michael of the Late Fifteenth Century,” Arts & Decoration 7, no. 5 (1917): 249, http://www.jstor.org/stable/43808977.
+ ⁵ Rubinstein, 249.
+ ⁶ Rubinstein, 249.
+ ⁷ Rubinstein, 249.
+ ⁸ Rubinstein, 249.
+ ⁹ Rubinstein, 249.
+ ¹⁰ Rubinstein, 249.
+ ¹¹ The Holy Bible, New Revised Standard Version, Daniel 10:13; 12:1.
+ ¹² The Holy Bible, New Revised Standard Version, Revelation 12:7–9.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+Philadelphia Museum of Art. “The Archangel Michael.” Object no. 103615. https://www.philamuseum.org/objects/103615.
+Rubinstein, Stella. “A French Painting of St. Michael of the Late Fifteenth Century.” Arts & Decoration 7, no. 5 (1917): 247–50. http://www.jstor.org/stable/43808977.
+The Holy Bible, New Revised Standard Version. Daniel 10:13; 12:1. Revelation 12:7–9.
