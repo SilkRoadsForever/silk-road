@@ -16,63 +16,39 @@ tags:
 ---
 
 # The Stegosaur Engravings at Ta Prohm
+The bas-relief carving located at Ta Prohm, part of the larger temple complex of Angkor Wat in Cambodia, depicts an animal that has been widely described as “stegosaur-like.”¹ The figure is carved in low relief on a stone column and shows a quadrupedal creature with a rounded body, a prominent head, a series of plate-like shapes running along its back, and is approximately 11 cm by 11 cm in size.² While the resemblance to a stegosaur is visually striking, the image diverges from known fossil reconstructions in several key ways, including its disproportionately large head and the apparent absence of tail spikes.³ However, the carving’s placement among other animal figures and its consistent stylistic treatment suggest that the artist intended to depict a recognizable creature rather than purely ornamental design.⁴ As such, the image occupies a contested space between naturalistic representation and symbolic or decorative interpretation, forming the basis for ongoing debate about its meaning and origin.⁵
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+The temple complex of Angkor Wat, located within the Angkor Archaeological Park in Cambodia, represents one of the largest and most significant religious monuments in the pre-industrial world.⁶ Constructed between the ninth and fifteenth centuries, it served as the political and cultural center of the powerful Khmer Empire, which extended across much of Southeast Asia.⁷ Within this vast complex, the temple of Ta Prohm was built around AD 1200 as a Buddhist monastery and educational center capable of supporting thousands of inhabitants.⁸ The temple’s architectural design consists of a series of concentric enclosures, richly decorated with carvings of humans, deities, animals, and geometric patterns.⁹ Among these numerous engravings are detailed depictions of animals, including the so-called stegosaur-like figure, which appears alongside more conventional representations such as elephants and other fauna.¹⁰ The consistency of artistic style across these carvings suggests that the stegosaur-like image was created within the same cultural and artistic framework as the rest of the temple’s iconography.¹¹
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+Skeptical interpretations of the carving at Ta Prohm emphasize that its resemblance to a stegosaur is largely superficial and depends mainly on a single visual feature.¹² The perceived similarity rests primarily on what observers identify as dermal plates along the animal’s back.¹³ However, critics argue that the carving lacks several key anatomical traits of known stegosaurs, including a long neck, a small unornamented head, and the tail spikes often referred to by paleontologists as the thagomizer.¹⁴ These discrepancies have led some scholars to argue that the dorsal “plates” may instead represent decorative foliage or background motifs rather than anatomical features.¹⁵ While some proponents of the dinosaur interpretation attempt to account for these inconsistencies by suggesting the presence of a muzzle or the removal of tail spikes, such explanations rely on speculative assumptions about domestication that are not supported by clear evidence.¹⁶ This interpretation further implies that the Khmer people coexisted with and managed living dinosaurs, a claim that seems to extend beyond established archaeological or historical data.¹⁷ Additional anatomical concerns include limb proportions that do not match stegosaur morphology, particularly the absence of the pronounced difference between elongated hind limbs and shorter forelimbs seen in fossil specimens.¹⁸ As a result, although the carving may resemble a stegosaur, the similarity is limited.¹⁹
 
+## Footnotes
+1.	David Woetzel, “The Stegosaur Engravings at Ta Prohm,” Answers Research Journal 10 (2017): 213–220, https://answersresearchjournal.org/stegosaur-engravings-at-ta-prohm/. 
+2.	Woetzel, 213–220. 
+3.	Woetzel, 213–220. 
+4.	Woetzel, 213–220. 
+5.	Woetzel, 213–220. 
+6.	Woetzel, 213–220. 
+7.	Woetzel, 213–220. 
+8.	Woetzel, 213–220. 
+9.	Woetzel, 213–220. 
+10.	Woetzel, 213–220. 
+11.	Woetzel, 213–220. 
+12.	Scott E. Burnett, “A Stegosaur Carving on the Ruins of Ta Prohm? Think Again,” Skeptical Inquirer: The Magazine for Science and Reason 43, no. 4 (2019): 46, https://ecscholar.eckerd.edu/esploro/outputs/magazineArticle/A-Stegosaur-Carving-on-the-Ruins/992678224906111. 
+13.	Burnett, 46. 
+14.	Burnett, 46. 
+15.	Woetzel, 213–220. 
+16.	Burnett, 46. 
+17.	Burnett, 46. 
+18.	Burnett, 46. 
+19.	Burnett, 46. 
 
-## Your First Section Heading
-{% include images/figure.html
-class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/st-george.jpg"
-%}
-
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
-
-
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+Burnett, Scott E. “A Stegosaur Carving on the Ruins of Ta Prohm? Think Again.” Skeptical Inquirer: The Magazine for Science and Reason 43, no. 4 (2019): 45–49. https://ecscholar.eckerd.edu/esploro/outputs/magazineArticle/A-Stegosaur-Carving-on-the-Ruins/992678224906111.
+
+Woetzel, David. “The Stegosaur Engravings at Ta Prohm.” Answers Research Journal 10 (2017): 213–220. https://answersresearchjournal.org/stegosaur-engravings-at-ta-prohm/.
+
