@@ -16,6 +16,14 @@ tags:
 ---
 
 # The Stegosaur Engravings at Ta Prohm
+
+{% include images/figure.html
+class="right"
+width="48%"
+caption="A land animal among many. [Source](https://www.google.com/maps/place/Ta+Prohm+Temple/@13.4347993,103.8867292,1120m/data=!3m1!1e3!4m7!3m6!1s0x311015dfb229a5df:0xcfb9459e2f62051e!4b1!8m2!3d13.4347941!4d103.8893041!16zL20vMDI5eG40?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D)"
+image-path="images/stegosaurus.jpg"
+%}
+
 The bas-relief carving located at Ta Prohm, part of the larger temple complex of Angkor Wat in Cambodia, depicts an animal that has been widely described as “stegosaur-like.”¹ The figure is carved in low relief on a stone column and shows a quadrupedal creature with a rounded body, a prominent head, a series of plate-like shapes running along its back, and is approximately 11 cm by 11 cm in size.² While the resemblance to a stegosaur is visually striking, the image diverges from known fossil reconstructions in several key ways, including its disproportionately large head and the apparent absence of tail spikes.³ However, the carving’s placement among other animal figures and its consistent stylistic treatment suggest that the artist intended to depict a recognizable creature rather than purely ornamental design.⁴ As such, the image occupies a contested space between naturalistic representation and symbolic or decorative interpretation, forming the basis for ongoing debate about its meaning and origin.⁵
 
 The temple complex of Angkor Wat, located within the Angkor Archaeological Park in Cambodia, represents one of the largest and most significant religious monuments in the pre-industrial world.⁶ Constructed between the ninth and fifteenth centuries, it served as the political and cultural center of the powerful Khmer Empire, which extended across much of Southeast Asia.⁷ Within this vast complex, the temple of Ta Prohm was built around AD 1200 as a Buddhist monastery and educational center capable of supporting thousands of inhabitants.⁸ The temple’s architectural design consists of a series of concentric enclosures, richly decorated with carvings of humans, deities, animals, and geometric patterns.⁹ Among these numerous engravings are detailed depictions of animals, including the so-called stegosaur-like figure, which appears alongside more conventional representations such as elephants and other fauna.¹⁰ The consistency of artistic style across these carvings suggests that the stegosaur-like image was created within the same cultural and artistic framework as the rest of the temple’s iconography.¹¹
