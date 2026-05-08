@@ -16,6 +16,14 @@ tags:
 ---
 
 # St. George Slays Dragon
+
+{% include images/figure.html
+class="right"
+width="48%"
+caption="The dragon wraps its tail around the stallion. [Source](https://www.benaki.org/index.php?option=com_collectionitems&view=collectionitem&id=108367&Itemid=540&lang=en)"
+image-path="st-george.jpg"
+%}
+
 The icon depicts St. George in full military attire, emphasizing both his role as a soldier and a holy warrior.¹ He wears a short, long-sleeved tunic beneath a richly ornamented cuirass decorated with gold, featuring a single row of leather “wings” at the upper arms and a double row around the pelvis.² His legs are covered in tightly fitted hose or pantaloons, and his boots resemble bandages wrapped securely around them.³ Flowing behind him as he rides forward is a red chlamys, knotted at the chest, adding a sense of movement and drama.⁴ Armed with a round shield on his left arm, St. George thrusts a spear with his right hand into the open mouth of a fearsome three-headed dragon with red wings.⁵ The dragon coils its tail around the hind legs of the horse, which rears back in alarm, its own tail knotted.⁶ Above, in the upper right corner, the hand of God appears in two sections, offering a gesture of blessing toward the saint.⁷ The setting is defined by a stark landscape composed of two opposing triangular rock formations, framing the intense and symbolic confrontation.⁸
 
 This icon, now housed in the Benaki Museum in Athens, was acquired through the generosity of the A. Leventis Foundation and measures 40.8 by 37.5 cm.⁹ An inscription in Greek reading “by the hand of Angelos” identifies the artist as Angelos Akotantos, a prominent Cretan painter now securely dated to the first half of the fifteenth century.¹⁰ The absence of a written date is offset by stylistic and iconographic evidence, which aligns the work with fifteenth-century Cretan painting rather than later traditions.¹¹ Angelos’s reputation is underscored by the number of surviving signed works and attributed icons, suggesting he operated a large and influential workshop.¹² His works are found across the Byzantine world, including Sinai, Patmos, and various Greek islands, demonstrating both his fame and the wide circulation of his art.¹³ The icon thus not only represents a vivid religious narrative but also provides valuable insight into the artistic production, workshop practices, and broader cultural networks of Cretan painting during this formative period.¹⁴
