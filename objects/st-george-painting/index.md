@@ -21,7 +21,7 @@ tags:
 class="right"
 width="48%"
 caption="The dragon wraps its tail around the stallion. [Source](https://www.benaki.org/index.php?option=com_collectionitems&view=collectionitem&id=108367&Itemid=540&lang=en)"
-image-path="image/st-george.jpg"
+image-path="images/st-george.jpg"
 %}
 
 The icon depicts St. George in full military attire, emphasizing both his role as a soldier and a holy warrior.¹ He wears a short, long-sleeved tunic beneath a richly ornamented cuirass decorated with gold, featuring a single row of leather “wings” at the upper arms and a double row around the pelvis.² His legs are covered in tightly fitted hose or pantaloons, and his boots resemble bandages wrapped securely around them.³ Flowing behind him as he rides forward is a red chlamys, knotted at the chest, adding a sense of movement and drama.⁴ Armed with a round shield on his left arm, St. George thrusts a spear with his right hand into the open mouth of a fearsome three-headed dragon with red wings.⁵ The dragon coils its tail around the hind legs of the horse, which rears back in alarm, its own tail knotted.⁶ Above, in the upper right corner, the hand of God appears in two sections, offering a gesture of blessing toward the saint.⁷ The setting is defined by a stark landscape composed of two opposing triangular rock formations, framing the intense and symbolic confrontation.⁸
