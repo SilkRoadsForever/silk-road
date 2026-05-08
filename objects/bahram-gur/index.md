@@ -16,6 +16,14 @@ tags:
 ---
 
 # Bahram Gur Slays Dragon
+
+{% include images/figure.html
+class="right"
+width="48%"
+caption="The stallion watches carefully as the dragon is slayed. [Source](https://www.clevelandart.org/art/1943.658)"
+image-path="images/bahram-gur.jpg"
+%}
+
 Bahram Gur Slays a Dragon (verso), from the Shahnama (Book of Kings) attributed to Firdausi and produced in the Great Mongol Shahnama tradition (c. 1330–35), depicts Bahram Gur driving his sword into the chest of a dragon in a highly charged moment of combat.¹ Bahram Gur, a celebrated figure from Iran’s pre-Islamic past and a ruler of the Sasanian dynasty (420–438 CE), was renowned as both a hunter and legendary hero.² The work is executed in opaque watercolor, ink, and gold on paper, and measures 45.8 × 34.4 cm (18 1/16 × 13 9/16 in.).³ The composition reflects strong Mongol-period Iranian engagement with Chinese visual traditions, especially in its stylized rock formations, tree trunk, and dynamic rendering of the dragon.⁴ The scene is unified through the energetic movement of both landscape and creature, producing an intense and tightly concentrated visual narrative.⁵
 
 The scene depicts the Sasanian monarch Bahram Gur (420–38) confronting an enormous dragon that stretches across the composition from the lower left to the upper right.⁶ The dragon lies on its back with its head and breast pierced by arrows, while its serpentine tail coils around a tree, emphasizing its size and chaotic power.⁷ At the lower center, Bahram Gur stands with his head obscured by a helmet, preparing to disembowel the creature with a sword, while his horse stands at the lower right and fantastic hills with sprouting trees fill the upper left.⁸ The composition is clarified by the accompanying epic passage, which describes the moment of encounter and battle in vivid poetic terms:
