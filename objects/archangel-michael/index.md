@@ -20,7 +20,7 @@ tags:
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:the-archangel-michael.jpg)"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source]( https://www.philamuseum.org/objects/103615)"
 image-path="images/the-archangel-michael.jpg"
 %}
 
