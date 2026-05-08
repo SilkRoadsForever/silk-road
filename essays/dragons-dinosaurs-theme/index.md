@@ -12,7 +12,7 @@ summary: The Silk Roads formed a vast network of interconnected trade and cultur
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Here depicts the mighty Archangel Michael. [Source](https://www.google.com/maps/place/Avignon,+France/@43.9416105,4.7920581,13263m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12b5eb8739bc9d07:0xe6429b6efa1d7b36!8m2!3d43.9486986!4d4.8059401!16zL20vMDloemM?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D)"
+caption="This depicts the mighty Archangel Michael. [Source](https://www.google.com/maps/place/Avignon,+France/@43.9416105,4.7920581,13263m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12b5eb8739bc9d07:0xe6429b6efa1d7b36!8m2!3d43.9486986!4d4.8059401!16zL20vMDloemM?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D)"
 image-path="images/st-michael.jpg"
 %}
 
